@@ -1,1 +1,3 @@
 hii this is first txt here
+and today is the first day of the lab 
+we are doing practicals like we have never seen this  git and github
